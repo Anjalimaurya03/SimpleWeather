@@ -1,0 +1,58 @@
+.box{
+    padding: 10% 35%;
+}
+
+
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #abbcfb 0%, #344669 100%);
+    box-shadow: 0 16px 14px 0 #133463;
+    padding: 30px 35px;
+    max-width: auto;
+    
+  }
+
+
+
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.date{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    padding-bottom: 10%;
+}
+
+.description{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.reports{
+    padding: 10% 0%;
+
+}
+
+.report{
+    font-style: oblique;
+    align-items: center;
+    padding: 5px;
+    font-size: 3rem;
+    display: flex;
+    
+    
+}
+
+.wind ,.temp{
+    padding-left: 30px;
+}
+

@@ -1,0 +1,20 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    background-color: lavender;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 80px;
+    
+}
+
+.homepage .btn {
+    margin-top: 1rem;
+    border: none;
+    background-color: rgba(21, 21, 148, 0.915);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 5px 5px #ccc;
+}
